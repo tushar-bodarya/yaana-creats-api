@@ -7,6 +7,9 @@ const server = new ApolloServer({
   resolvers,
   introspection: true,
   playground: true,
+  cors: {
+    origin: ["https://www.yaanacreats.com/"],
+  }
 })
 
 server

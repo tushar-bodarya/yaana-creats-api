@@ -22,6 +22,7 @@
     "apollo-server-express": "^2.15.0",
     "body-parser": "^1.19.0",
     "class-transformer": "^0.2.3",
+    "cors": "^2.8.5",
     "easygraphql-format-error": "0.0.3",
     "express": "^4.17.1",
     "express-graphql": "^0.9.0",
